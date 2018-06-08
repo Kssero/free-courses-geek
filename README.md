@@ -5,7 +5,7 @@
 Пример запуска: ruby task.rb arg1 arg2 arg3 .. argN
 Используйте массив ARGV для доступа к аргументам
 Используйте метод puts для вывода данных
-# Frontend-программист
+# color = blue Frontend-программист
 # Задание
 Решения заданий находятся в файлах task1.js, task2.js, task3.js
 Пример запуска: node task.js arg1 arg2 arg3 .. argN
